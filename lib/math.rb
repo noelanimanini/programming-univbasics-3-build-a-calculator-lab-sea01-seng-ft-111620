@@ -1,7 +1,7 @@
 def addition(num1, num2)
 num1 + num2
 end
-prints addition(5,4)
+print addition(5,4)
 
 def subtraction(num1, num2)
 
