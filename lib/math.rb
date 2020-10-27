@@ -1,9 +1,10 @@
 def addition(num1, num2)
-sum = num1 + num2
 num1 == 5
 num2 == 4
-puts sum
+sum = (num1 + num2)
 end
+
+prints addition(sum)
 
 def subtraction(num1, num2)
 
